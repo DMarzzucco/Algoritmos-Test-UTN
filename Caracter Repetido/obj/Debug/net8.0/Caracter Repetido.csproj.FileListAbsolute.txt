@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\bin\Debug\net8.0\Caracter Repetido.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\bin\Debug\net8.0\Caracter Repetido.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\bin\Debug\net8.0\Caracter Repetido.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\bin\Debug\net8.0\Caracter Repetido.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\bin\Debug\net8.0\Caracter Repetido.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\Caracter Repetido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\Caracter Repetido.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\Caracter Repetido.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\Caracter Repetido.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\Caracter Repetido.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\refint\Caracter Repetido.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\Caracter Repetido.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\Caracter Repetido.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Caracter Repetido\obj\Debug\net8.0\ref\Caracter Repetido.dll

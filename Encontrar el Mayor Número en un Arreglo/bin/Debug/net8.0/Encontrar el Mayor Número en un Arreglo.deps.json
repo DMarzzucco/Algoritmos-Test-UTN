@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Encontrar el Mayor Número en un Arreglo/1.0.0": {
+        "runtime": {
+          "Encontrar el Mayor Número en un Arreglo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encontrar el Mayor Número en un Arreglo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\Tesis.NET.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\Tesis.NET.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\Tesis.NET.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\Tesis.NET.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\Tesis.NET.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\Tesis.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\Tesis.NET.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\Tesis.NET.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\Tesis.NET.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\Tesis.NET.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\refint\Tesis.NET.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\Tesis.NET.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\Tesis.NET.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\ref\Tesis.NET.dll

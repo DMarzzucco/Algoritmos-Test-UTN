@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\bin\Debug\net8.0\WordsCount.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\bin\Debug\net8.0\WordsCount.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\bin\Debug\net8.0\WordsCount.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\bin\Debug\net8.0\WordsCount.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\bin\Debug\net8.0\WordsCount.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\WordsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\WordsCount.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\WordsCount.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\WordsCount.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\WordsCount.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\refint\WordsCount.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\WordsCount.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\WordsCount.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\WordsCount\obj\Debug\net8.0\ref\WordsCount.dll

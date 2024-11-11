@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\bin\Debug\net8.0\CountCharacterByTypesInAString.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\bin\Debug\net8.0\CountCharacterByTypesInAString.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\bin\Debug\net8.0\CountCharacterByTypesInAString.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\bin\Debug\net8.0\CountCharacterByTypesInAString.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\bin\Debug\net8.0\CountCharacterByTypesInAString.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\CountCharacterByTypesInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\CountCharacterByTypesInAString.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\CountCharacterByTypesInAString.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\CountCharacterByTypesInAString.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\CountCharacterByTypesInAString.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\refint\CountCharacterByTypesInAString.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\CountCharacterByTypesInAString.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\CountCharacterByTypesInAString.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\CountCharacterByTypesInAString\obj\Debug\net8.0\ref\CountCharacterByTypesInAString.dll

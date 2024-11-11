@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\bin\Debug\net8.0\FIbonacci.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\bin\Debug\net8.0\FIbonacci.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\bin\Debug\net8.0\FIbonacci.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\bin\Debug\net8.0\FIbonacci.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\bin\Debug\net8.0\FIbonacci.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\FIbonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\FIbonacci.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\FIbonacci.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\FIbonacci.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\FIbonacci.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\refint\FIbonacci.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\FIbonacci.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\FIbonacci.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\FIbonacci\obj\Debug\net8.0\ref\FIbonacci.dll

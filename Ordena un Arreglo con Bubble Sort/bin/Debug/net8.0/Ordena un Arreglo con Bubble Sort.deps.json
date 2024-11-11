@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ordena un Arreglo con Bubble Sort/1.0.0": {
+        "runtime": {
+          "Ordena un Arreglo con Bubble Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ordena un Arreglo con Bubble Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

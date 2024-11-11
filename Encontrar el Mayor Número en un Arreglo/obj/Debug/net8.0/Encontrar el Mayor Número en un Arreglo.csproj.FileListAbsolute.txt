@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\bin\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\bin\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\bin\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\bin\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\bin\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\refint\Encontrar el Mayor Número en un Arreglo.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\Encontrar el Mayor Número en un Arreglo.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Encontrar el Mayor Número en un Arreglo\obj\Debug\net8.0\ref\Encontrar el Mayor Número en un Arreglo.dll

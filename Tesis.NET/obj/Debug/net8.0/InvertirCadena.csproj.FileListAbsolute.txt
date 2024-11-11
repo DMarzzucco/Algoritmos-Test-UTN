@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\InvertirCadena.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\InvertirCadena.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\InvertirCadena.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\InvertirCadena.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\bin\Debug\net8.0\InvertirCadena.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\InvertirCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\InvertirCadena.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\InvertirCadena.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\InvertirCadena.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\InvertirCadena.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\refint\InvertirCadena.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\InvertirCadena.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\InvertirCadena.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Tesis.NET\obj\Debug\net8.0\ref\InvertirCadena.dll

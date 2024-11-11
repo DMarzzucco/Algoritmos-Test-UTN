@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\refint\NumerosPrimos.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\NumerosPrimos\obj\Debug\net8.0\ref\NumerosPrimos.dll

@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\bin\Debug\net8.0\Impl Stack.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\bin\Debug\net8.0\Impl Stack.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\bin\Debug\net8.0\Impl Stack.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\bin\Debug\net8.0\Impl Stack.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\bin\Debug\net8.0\Impl Stack.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\Impl Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\Impl Stack.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\Impl Stack.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\Impl Stack.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\Impl Stack.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\refint\Impl Stack.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\Impl Stack.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\Impl Stack.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Impl Stack\obj\Debug\net8.0\ref\Impl Stack.dll

@@ -1,0 +1,14 @@
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\bin\Debug\net8.0\Ordena un Arreglo con Bubble Sort.exe
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\bin\Debug\net8.0\Ordena un Arreglo con Bubble Sort.deps.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\bin\Debug\net8.0\Ordena un Arreglo con Bubble Sort.runtimeconfig.json
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\bin\Debug\net8.0\Ordena un Arreglo con Bubble Sort.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\bin\Debug\net8.0\Ordena un Arreglo con Bubble Sort.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\Ordena un Arreglo con Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\Ordena un Arreglo con Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\Ordena un Arreglo con Bubble Sort.AssemblyInfo.cs
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\Ordena un Arreglo con Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\Ordena un Arreglo con Bubble Sort.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\refint\Ordena un Arreglo con Bubble Sort.dll
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\Ordena un Arreglo con Bubble Sort.pdb
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\Ordena un Arreglo con Bubble Sort.genruntimeconfig.cache
+C:\Users\darmarzrold\source\repos\Tesis.NET\Ordena un Arreglo con Bubble Sort\obj\Debug\net8.0\ref\Ordena un Arreglo con Bubble Sort.dll
